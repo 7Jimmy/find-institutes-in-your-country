@@ -17,7 +17,7 @@ btn.addEventListener('click',async ()=>{
         show(clgArr);
     //     let p=document.createElement('p');
     //     p.innerText=data;
-    // body.append(p);
+    // body.append(p);ii
     
     
     
